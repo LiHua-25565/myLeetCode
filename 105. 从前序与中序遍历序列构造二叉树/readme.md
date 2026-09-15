@@ -1,0 +1,1 @@
+前序右子树根节点坐标为root_index+1+mid-l
